@@ -4,12 +4,14 @@ namespace GestionFuncionarios
 {
     public class EmpresaFuncionariosContext : DbContext
     {
+        private const string ConexionMySql = "server=127.0.0.1;port=3306;database=empresa_funcionarios;user=root;password=root;SslMode=Preferred;";
+
         public DbSet<Funcionario> Funcionarios { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Usar SQLite para simplicidad
-            optionsBuilder.UseSqlite("Data Source=empresa_funcionarios.db");
+            // Usar MySQL con la base de datos empresa_funcionarios
+            optionsBuilder.UseMySql(ConexionMySql, ServerVersion.AutoDetect(ConexionMySql));
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -35,7 +35,7 @@ Clona el repositorio desde GitHub o descarga el archivo ZIP del proyecto y extra
 
 ```bash
 git clone https://github.com/KamiloVelasquez/DESARROLLO-DE-SOFTWARE-SEGURO.git
-cd DESARROLLO-DE-SOFTWARE-SEGURO
+cd DESARROLLO-DE-SOFTWARE-SEGURO_V2
 ```
 
 ### Paso 2: Restaurar las Dependencias

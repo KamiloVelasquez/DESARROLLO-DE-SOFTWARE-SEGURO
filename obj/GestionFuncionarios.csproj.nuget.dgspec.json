@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO\\DESARROLLO DE SOFTWARE SEGURO\\GestionFuncionarios.csproj": {}
+    "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO_V2\\GestionFuncionarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO\\DESARROLLO DE SOFTWARE SEGURO\\GestionFuncionarios.csproj": {
+    "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO_V2\\GestionFuncionarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO\\DESARROLLO DE SOFTWARE SEGURO\\GestionFuncionarios.csproj",
+        "projectUniqueName": "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO_V2\\GestionFuncionarios.csproj",
         "projectName": "GestionFuncionarios",
-        "projectPath": "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO\\DESARROLLO DE SOFTWARE SEGURO\\GestionFuncionarios.csproj",
+        "projectPath": "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO_V2\\GestionFuncionarios.csproj",
         "packagesPath": "C:\\Users\\CAMILO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO\\DESARROLLO DE SOFTWARE SEGURO\\obj\\",
+        "outputPath": "C:\\Users\\CAMILO\\Documents\\DOCUMENTOS_KAMILO\\IUDGITAL_KAMILO\\Desarrollo de Software Seguro\\DESARROLLO DE SOFTWARE SEGURO_V2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CAMILO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,11 +48,11 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
